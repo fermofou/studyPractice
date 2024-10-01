@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/fermo/OneDrive/Documents/GitHub/studyPractice/Chapter1",
-      "program": "c:/Users/fermo/OneDrive/Documents/GitHub/studyPractice/Chapter1/build/Debug/outDebug",
+      "cwd": "c:/Users/fermo/OneDrive/Documents/GitHub/studyPractice/INTRO_ALGHORITMS/Chapter1",
+      "program": "c:/Users/fermo/OneDrive/Documents/GitHub/studyPractice/INTRO_ALGHORITMS/Chapter1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
