@@ -12,14 +12,14 @@ Welcome to **StudyPractice**, where I tackle exercises inspired by **Introductio
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/studyPractice.git
+   git clone https://github.com/fermofou/studyPractice.git
    ```
 2. Navigate through folders for problems of interest.
 3. Feel free to adapt the solutions to your needs or try solving the problems yourself first.
 
 ## 🛠️ Technologies
 
-- **Languages**: Python, C++, Java (depending on the problem)
+- **Languages**: Python and C++ mainly
 - **Tools**: Git, VSCode, LeetCode, Codeforces
 
 ## 🌱 Contributions
